@@ -1,0 +1,11 @@
+You will get the dataset from the followig link:-
+
+https://www.kaggle.com/competitions/flower-classification-with-tpus/data
+
+I request you to download all the four parts i.e
+1> tfrecords-jpeg-192x192
+2> tfrecords-jpeg-224x224
+3> tfrecords-jpeg-331x331
+4> tfrecords-jpeg-512x512
+
+Extract thses zip files and keep it in the same folder, and then change the path of the folders in the notebook
